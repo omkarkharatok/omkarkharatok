@@ -217,7 +217,7 @@ nav .fas{
 
 @media only screen and (max-width: 600px){
 	#header{
-		background-image: url(Imgs/phbg.jpg);
+		background-image: url(Imgs/phbg1.jpg);
 		height: 70vh;
 	}
 	.header-text{
